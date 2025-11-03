@@ -18,6 +18,8 @@ This organization hosts various repositories related to the development on The O
 
 [**@ton/sandbox**](https://github.com/ton-org/sandbox): Testing framework to emulate arbitrary TON smart contracts, send messages, and run get methods on them as if they were deployed on a real network.
 
+[**docs**](https://github.com/ton-org/docs): The official TON Documentation for developers.
+
 ## Contributing
 We welcome contributions from the community to enhance the development and adoption of The Open Network and its developer tools. If you are interested in contributing, please follow these guidelines:
 
